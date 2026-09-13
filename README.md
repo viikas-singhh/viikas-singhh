@@ -41,6 +41,10 @@
 
 <div align="center">
 
+  <img src="game.gif" alt="GitHub Contribution Space Shooter" width="100%" />
+
+  <br/><br/>
+
   <a href="https://github.com/viikas-singhh">
     <img width="540" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viikas-singhh&custom_title=Security+Research+%26+Activity&show_icons=true&hide_border=false&bg_color=0A192F&title_color=B82042&text_color=FFFFFF&icon_color=B82042&border_color=1E3A5F&include_all_commits=true" alt="Security Research & Activity" />
   </a>
