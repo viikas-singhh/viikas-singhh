@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>👋 Welcome to My Security Space! I'm Vikas Singh</h1>
-  <p>🛡️ <b>Cybersecurity Professional</b> &nbsp;|&nbsp; <b>Web &amp; Application Security</b> &nbsp;|&nbsp; <b>Security Researcher</b></p>
+  <h1>Vikas Singh</h1>
+  <p><b>Cybersecurity Professional</b></p>
 
   <p align="center">
     <a href="https://github.com/viikas-singhh">
@@ -37,16 +37,8 @@
 | 🔌 **IoT & Hardware Security** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0A192F?style=flat-square&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-0A192F?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-0A192F?style=flat-square&logo=espressif&logoColor=white) |
 | ⚙️ **Security Automation** | ![n8n](https://img.shields.io/badge/n8n-0A192F?style=flat-square&logo=n8n&logoColor=white) ![Python](https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-0A192F?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-0A192F?style=flat-square&logo=powershell&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0A192F?style=flat-square&logoColor=white) |
 
-### 📊 GitHub Activity
-
 <div align="center">
 
-  <img src="game.gif" alt="GitHub Contribution Space Shooter" width="100%" />
-
-  <br/><br/>
-
-  <a href="https://github.com/viikas-singhh">
-    <img width="540" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viikas-singhh&custom_title=Security+Research+%26+Activity&show_icons=true&hide_border=false&bg_color=0A192F&title_color=B82042&text_color=FFFFFF&icon_color=B82042&border_color=1E3A5F&include_all_commits=true" alt="Security Research & Activity" />
-  </a>
+  <img src="game.gif" alt="GitHub Space Shooter" width="100%" />
 
 </div>
