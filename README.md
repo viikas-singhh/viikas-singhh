@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src=".github/assets/banner.svg" alt="Vikas Singh — Cybersecurity Professional" width="100%"/>
+  <img src=".github/assets/banner_wine.svg" alt="Vikas Singh — Cybersecurity Professional" width="100%"/>
 
   <p align="center">
     <a href="https://github.com/viikas-singhh">
