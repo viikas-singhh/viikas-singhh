@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>Vikas Singh</h1>
-  <p><b>Cybersecurity Professional</b> &nbsp;|&nbsp; <b>Web &amp; Application Security</b></p>
+  <h1>👋 Welcome to My Security Space! I'm Vikas Singh</h1>
+  <p>🛡️ <b>Cybersecurity Professional</b> &nbsp;|&nbsp; <b>Web &amp; Application Security</b> &nbsp;|&nbsp; <b>Security Researcher</b></p>
 
   <p align="center">
     <a href="https://github.com/viikas-singhh">
@@ -42,11 +42,7 @@
 <div align="center">
 
   <a href="https://github.com/viikas-singhh">
-    <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viikas-singhh&show_icons=true&hide_border=false&bg_color=0A192F&title_color=B82042&text_color=FFFFFF&icon_color=B82042&border_color=1E3A5F" alt="GitHub Stats"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/viikas-singhh">
-    <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viikas-singhh&layout=compact&hide_border=false&bg_color=0A192F&title_color=B82042&text_color=FFFFFF&border_color=1E3A5F" alt="Top Languages"/>
+    <img width="540" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viikas-singhh&custom_title=Security+Research+%26+Activity&show_icons=true&hide_border=false&bg_color=0A192F&title_color=B82042&text_color=FFFFFF&icon_color=B82042&border_color=1E3A5F&include_all_commits=true" alt="Security Research & Activity" />
   </a>
 
 </div>
