@@ -1,10 +1,11 @@
 <div align="center">
 
-  <img src=".github/assets/banner_wine_v2.svg" alt="Vikas Singh — Cybersecurity Professional" width="100%"/>
+  <h1>Vikas Singh</h1>
+  <p><b>Cybersecurity Professional</b> &nbsp;|&nbsp; <b>Web &amp; Application Security</b></p>
 
   <p align="center">
     <a href="https://github.com/viikas-singhh">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=900&color=B82042&center=true&vCenter=true&repeat=true&width=550&height=28&lines=%3E_Cybersecurity_Professional;%3E_Web_%26_Application_Security;%3E_Cloud_Security_%26_DevSecOps;%3E_IoT_%26_Hardware_Security_Research;%3E_Security_Automation_with_n8n" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=900&color=B82042&center=true&vCenter=true&repeat=true&width=550&height=28&lines=%3E_Cybersecurity_Professional;%3E_Web_%26_Application_Security;%3E_Cloud_Security_%26_DevSecOps;%3E_IoT_%26_Hardware_Security;%3E_Security_Automation_with_n8n" alt="Typing SVG" />
     </a>
   </p>
 
@@ -41,7 +42,11 @@
 <div align="center">
 
   <a href="https://github.com/viikas-singhh">
-    <img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viikas-singhh&show_icons=true&hide_border=false&bg_color=0A192F&title_color=B82042&text_color=FFFFFF&icon_color=B82042&border_color=1E3A5F" alt="GitHub Stats"/>
+    <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viikas-singhh&show_icons=true&hide_border=false&bg_color=0A192F&title_color=B82042&text_color=FFFFFF&icon_color=B82042&border_color=1E3A5F" alt="GitHub Stats"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/viikas-singhh">
+    <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viikas-singhh&layout=compact&hide_border=false&bg_color=0A192F&title_color=B82042&text_color=FFFFFF&border_color=1E3A5F" alt="Top Languages"/>
   </a>
 
 </div>
