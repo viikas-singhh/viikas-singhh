@@ -53,11 +53,7 @@
 <div align="center">
 
   <a href="https://github.com/viikas-singhh">
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viikas-singhh&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=30363D" alt="GitHub Stats"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/viikas-singhh">
-    <img height="150" src="https://streak-stats.demolab.com?user=viikas-singhh&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=30363D&hide_border=false" alt="GitHub Streak"/>
+    <img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viikas-singhh&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=30363D" alt="GitHub Stats"/>
   </a>
 
 </div>
