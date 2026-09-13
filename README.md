@@ -39,76 +39,80 @@
 
 ### 🛠️ Security Arsenal
 
-<br/>
-
-#### 🔴 Web & Application Security (Offensive)
-> *Penetration Testing, Vulnerability Research & Exploitation*
-
-![Nmap](https://img.shields.io/badge/Nmap-0A192F?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0A192F?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-0A192F?style=flat-square&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-0A192F?style=flat-square&logo=wireshark&logoColor=white)
-![SQLmap](https://img.shields.io/badge/SQLmap-0A192F?style=flat-square&logo=sqlite&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-0A192F?style=flat-square&logo=neo4j&logoColor=white)
-![Responder](https://img.shields.io/badge/Responder-0A192F?style=flat-square&logo=windows&logoColor=white)
-![Impacket](https://img.shields.io/badge/Impacket-0A192F?style=flat-square&logo=python&logoColor=white)
-![NetExec](https://img.shields.io/badge/NetExec-0A192F?style=flat-square&logo=linux&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-0A192F?style=flat-square&logo=gnubash&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-0A192F?style=flat-square&logo=hashcat&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-0A192F?style=flat-square&logo=kalilinux&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-0A192F?style=flat-square&logo=go&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-0A192F?style=flat-square&logo=go&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-0A192F?style=flat-square&logo=perl&logoColor=white)
-![Amass](https://img.shields.io/badge/Amass-0A192F?style=flat-square&logo=owasp&logoColor=white)
-![Subfinder](https://img.shields.io/badge/Subfinder-0A192F?style=flat-square&logo=go&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-0A192F?style=flat-square&logo=gnubash&logoColor=white)
-
-<br/>
-
-#### 🔵 Defensive Security & SOC Operations
-> *SIEM Monitoring, Threat Hunting & Detection Engineering*
-
-![Splunk](https://img.shields.io/badge/Splunk-0A192F?style=flat-square&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-0A192F?style=flat-square&logo=wazuh&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-0A192F?style=flat-square&logo=elastic&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-0A192F?style=flat-square&logo=snort&logoColor=white)
-![Zeek](https://img.shields.io/badge/Zeek-0A192F?style=flat-square&logo=wireshark&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-0A192F?style=flat-square&logo=microsoft&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-0A192F?style=flat-square&logo=target&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma-0A192F?style=flat-square&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0A192F?style=flat-square&logo=microsoft&logoColor=white)
-![Security Onion](https://img.shields.io/badge/Security_Onion-0A192F?style=flat-square&logo=linux&logoColor=white)
-
-<br/>
-
-#### ☁️ Cloud Security & DevSecOps
-> *Cloud Hardening, IAM & Continuous Security Auditing*
-
-![AWS](https://img.shields.io/badge/AWS-0A192F?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0A192F?style=flat-square&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0A192F?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-0A192F?style=flat-square&logo=amazonwebservices&logoColor=white)
-![AWS GuardDuty](https://img.shields.io/badge/AWS_GuardDuty-0A192F?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-<br/>
-
-#### 🔌 IoT & Hardware Security
-> *Microcontroller Auditing & Embedded Firmware Analysis*
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0A192F?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-0A192F?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-0A192F?style=flat-square&logo=espressif&logoColor=white)
-
-<br/>
-
-#### ⚙️ Security Automation & Scripting
-> *SOAR Workflows, Automated Scanners & Custom Tooling*
-
-![n8n](https://img.shields.io/badge/n8n-0A192F?style=flat-square&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-0A192F?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-0A192F?style=flat-square&logo=powershell&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0A192F?style=flat-square&logo=postman&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h4>🔴 Offensive Security &amp; Pentesting</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Nmap-0A192F?style=flat-square&logo=kalilinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Burp_Suite-0A192F?style=flat-square&logo=burpsuite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Metasploit-0A192F?style=flat-square&logo=metasploit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wireshark-0A192F?style=flat-square&logo=wireshark&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLmap-0A192F?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/BloodHound-0A192F?style=flat-square&logo=neo4j&logoColor=white" />
+        <img src="https://img.shields.io/badge/Responder-0A192F?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/Impacket-0A192F?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NetExec-0A192F?style=flat-square&logo=linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hydra-0A192F?style=flat-square&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hashcat-0A192F?style=flat-square&logo=hashcat&logoColor=white" />
+        <img src="https://img.shields.io/badge/John_the_Ripper-0A192F?style=flat-square&logo=kalilinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/ffuf-0A192F?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gobuster-0A192F?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nikto-0A192F?style=flat-square&logo=perl&logoColor=white" />
+        <img src="https://img.shields.io/badge/Amass-0A192F?style=flat-square&logo=owasp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Subfinder-0A192F?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Netcat-0A192F?style=flat-square&logo=gnubash&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4>🔵 Defensive Security &amp; SOC</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Splunk-0A192F?style=flat-square&logo=splunk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wazuh-0A192F?style=flat-square&logo=wazuh&logoColor=white" />
+        <img src="https://img.shields.io/badge/ELK_Stack-0A192F?style=flat-square&logo=elastic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Suricata-0A192F?style=flat-square&logo=snort&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zeek-0A192F?style=flat-square&logo=wireshark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sysmon-0A192F?style=flat-square&logo=microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/YARA-0A192F?style=flat-square&logo=target&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sigma-0A192F?style=flat-square&logo=white" />
+        <img src="https://img.shields.io/badge/Microsoft_Defender-0A192F?style=flat-square&logo=microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security_Onion-0A192F?style=flat-square&logo=linux&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h4>☁️ Cloud &amp; DevSecOps</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS-0A192F?style=flat-square&logo=amazonwebservices&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microsoft_Azure-0A192F?style=flat-square&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Cloud-0A192F?style=flat-square&logo=googlecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_CloudTrail-0A192F?style=flat-square&logo=amazonwebservices&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_GuardDuty-0A192F?style=flat-square&logo=amazonwebservices&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4>🔌 IoT &amp; Hardware Security</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Raspberry_Pi-0A192F?style=flat-square&logo=raspberrypi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arduino-0A192F?style=flat-square&logo=arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/ESP32-0A192F?style=flat-square&logo=espressif&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <h4>⚙️ Security Automation &amp; Scripting</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/n8n-0A192F?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-0A192F?style=flat-square&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerShell-0A192F?style=flat-square&logo=powershell&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_APIs-0A192F?style=flat-square&logo=postman&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -118,8 +122,8 @@
 
   <br/><br/>
 
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Tech Quotes" />
+  <a href="https://github-readme-quotes-bay.vercel.app">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=churchill" alt="Tech Quotes" />
   </a>
 
 </div>
